@@ -1,5 +1,5 @@
 {
-    "name": "expert/module-editorpdf",
+    "name": "expert/module-Wysiwyg",
     "description": "N/A",
     "require": {
         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~5.6.0",
@@ -22,7 +22,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Expert\\EditorPdf\\": ""
+            "Expert\\Wysiwyg\\": ""
         }
     }
 }

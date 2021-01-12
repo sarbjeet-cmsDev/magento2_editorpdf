@@ -1,4 +1,4 @@
-# magento2_editorpdf
+# magento2_Wysiwyg
 Magento 2 Admin Editor upload PDF
 
 
